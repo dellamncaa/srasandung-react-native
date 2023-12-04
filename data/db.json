@@ -1,0 +1,22 @@
+{
+  "mahasiswa": [
+    {
+      "id": 1,
+      "nama": "Della",
+      "niu": "478552",
+      "kelas": "A",
+      "jeniskelamin": "Perempuan",
+      "icon": "sun",
+      "color": "#E6E260"
+    },
+    {
+      "nama": "Monica",
+      "niu": "478552",
+      "kelas": "A",
+      "jeniskelamin": "Perempuan",
+      "icon": "coffee",
+      "color": "red",
+      "id": 2
+    }
+  ]
+}
